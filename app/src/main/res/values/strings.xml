@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="action_string">Acciones</string>
+    <string name="nuevo_contacto_string">Nuevo contacto</string>
+    <string name="adicionar_contacto_string">Adicionar</string>
+    <string name="guardar_contacto_string">Guardar contacto</string>
+
+    <string name="modificar_contacto_string">Modificar contacto</string>
+    <string name="cancelar_string">Cancelar</string>
+    <string name="title_activity_main">Contactos</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_contacto">Nuevo Contacto</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="title_activity_modificar_contacto">ModificarContactoActivity</string>
+    <string name="title_item_list">Items</string>
+    <string name="title_item_detail">Item Detail</string>
+</resources>

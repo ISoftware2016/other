@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <item
+        android:id="@+id/action_adicionar_contacto"
+        android:orderInCategory="100"
+        app:showAsAction="always"
+        android:icon="@drawable/adicionar_contacto"
+        android:title="@string/adicionar_contacto_string" />
+    <item
+        android:id="@+id/action_nuevo_contacto"
+        android:orderInCategory="200"
+        app:showAsAction="always"
+        android:icon="@drawable/insertar_nuevo_contacto"
+        android:title="@string/nuevo_contacto_string" />
+
+</menu>

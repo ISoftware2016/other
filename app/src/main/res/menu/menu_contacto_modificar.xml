@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".ModificarContactoActivity">
+    <item
+        android:id="@+id/action_modificar_contacto"
+        android:orderInCategory="100"
+        android:title="@string/modificar_contacto_string"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_cancelar"
+        android:orderInCategory="200"
+        android:title="@string/cancelar_string"
+        app:showAsAction="never" />
+</menu>
